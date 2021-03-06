@@ -56,9 +56,7 @@
 
 
 
-<h1 align="center">
-✨ Where you can find me ✨
-</h1>
+# ✨ Where you can find me ✨
 <p align="center">
   <br/>
   <a href="https://www.linkedin.com/in/ansh-kashyap-0755aa1b2/">
