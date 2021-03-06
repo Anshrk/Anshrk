@@ -56,7 +56,7 @@
 <h1 align="center">
 <br/>
 <div> </div>
-# ✨ Where you can find me ✨
+✨ Where you can find me ✨
 
 <p align="center">
   <br/>
