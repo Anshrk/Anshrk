@@ -14,7 +14,6 @@ ___
 
 | <a href="https://imgur.com/gnK58k4"><img src="https://i.imgur.com/gnK58k4.png" width=40px height=40px title="source: imgur.com" /></a> | <a href="https://imgur.com/clwEy83"><img src="https://i.imgur.com/clwEy83.png" width=40px height=40px title="source: imgur.com" /></a>|  <a href="https://imgur.com/HAUhZ5J"><img src="https://i.imgur.com/HAUhZ5J.png"  width=40px height=40px title="source: imgur.com" /></a> | <a href="https://imgur.com/M7g6J8l"><img src="https://i.imgur.com/M7g6J8l.png"  width=40px height=40px title="source: imgur.com" /></a> | <a href="https://imgur.com/HFneKWs"><img src="https://i.imgur.com/HFneKWs.png"  width=40px height=40px title="source: imgur.com" /></a> | <a href="https://imgur.com/OH4Wg9Z"><img src="https://i.imgur.com/OH4Wg9Z.png" width=40px height=40px title="source: imgur.com" /></a>
 | --- | ---|---|---|---|---|
-|
 ___
 
 ### 🍕 places you can find me
