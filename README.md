@@ -53,7 +53,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshrk&layout=compact&hide=html&theme=radical" alt="Anshrk" />
 </br>
 </br>
-<h1 align="center">
+
+<br/>
 <div> </div>
 # ✨ Where you can find me ✨
 
@@ -76,11 +77,8 @@
   </a>
 </p>
 
-</br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
-</h1>
-
 <!-- ## Support me
 Your support, if you have it 
 I created these images, feel free to use them.
