@@ -38,7 +38,7 @@
                                             
                                             
 # ___Hello, this is Ansh___
-## These my [Portfolio](https://anshrk.github.io)
+## This is my [Portfolio](https://anshrk.github.io) be sure to check it out!
 ## 🍕 some facts:</b>
 
 - Hello, I am Ansh.
