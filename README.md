@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/avatars/477723384495603713/744f838a17da124f419ed99f8d9bd8c6.webp?size=1024" />
-</p>
 
 
 
