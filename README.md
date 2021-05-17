@@ -83,8 +83,6 @@
 <br/>
 
 <h1 align="left"> 📊 &nbsp;Git Stats</h1>
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderaky&layout=compact&hide=html&theme=radical" alt="coderaky" /> -->
-
 </br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anshrk&show_icons=true&theme=radical" alt="Anshrk" />
