@@ -56,6 +56,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
   ![Rust](https://img.shields.io/badge/-rust-000000?style=for-the-badge&logo=rust)
+  ![Typescript](https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
   ![Lua](https://img.shields.io/badge/-Lua-000000?style=for-the-badge&logo=lua) 
   ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
