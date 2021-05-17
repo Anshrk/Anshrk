@@ -67,6 +67,7 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
   ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff)
+  ![Svelte](https://img.shields.io/badge/-svelte-fff?style=flat&logo=svelte&logoColor=00c8ff)
   ![ExpressJS](https://img.shields.io/badge/-Express.js-787878?style=flat)
   ![NodeJS](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
   ![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)
