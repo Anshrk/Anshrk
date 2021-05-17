@@ -59,6 +59,7 @@
   ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
   ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+  ![MongoDB](https://img.shields.io/badge/-mongoDB-000000?style=for-the-badge&logo=mongodb)
   ![Rust](https://img.shields.io/badge/-rust-000000?style=for-the-badge&logo=rust)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
