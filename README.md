@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 31st, 2021, 3:39:56 PM (Indian Standard Time)
+Last Updated: Saturday, July 31st, 2021, 5:37:18 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#1](https://github.com/Anshrk/Anshrk/pull/1) in [Anshrk/Anshrk](https://github.com/Anshrk/Anshrk)
-2. ![repoCreated] Created new repository [Anshrk/fango](https://github.com/Anshrk/fango)
-3. ![fork] Forked [Anshrk/portfolio-website-sulamita](https://github.com/Anshrk/portfolio-website-sulamita) from [divanov11/portfolio-website-sulamita](https://github.com/divanov11/portfolio-website-sulamita)
-4. ![fork] Forked [Anshrk/Axiol](https://github.com/Anshrk/Axiol) from [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-5. ![star] Starred [markfinger/python-react](https://github.com/markfinger/python-react)
-6. ![star] Starred [snowpackjs/astro](https://github.com/snowpackjs/astro)
-7. ![star] Starred [AbooMinister25/.dotfiles](https://github.com/AbooMinister25/.dotfiles)
-8. ![star] Starred [ogham/exa](https://github.com/ogham/exa)
-9. ![fork] Forked [Anshrk/fastapi-react](https://github.com/Anshrk/fastapi-react) from [Buuntu/fastapi-react](https://github.com/Buuntu/fastapi-react)
-10. ![star] Starred [Buuntu/fastapi-react](https://github.com/Buuntu/fastapi-react)
+1. ![star] Starred [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![star] Starred [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)
+3. ![prMerged] Merged PR [#1](https://github.com/Anshrk/Anshrk/pull/1) in [Anshrk/Anshrk](https://github.com/Anshrk/Anshrk)
+4. ![repoCreated] Created new repository [Anshrk/fango](https://github.com/Anshrk/fango)
+5. ![fork] Forked [Anshrk/portfolio-website-sulamita](https://github.com/Anshrk/portfolio-website-sulamita) from [divanov11/portfolio-website-sulamita](https://github.com/divanov11/portfolio-website-sulamita)
+6. ![fork] Forked [Anshrk/Axiol](https://github.com/Anshrk/Axiol) from [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+7. ![star] Starred [markfinger/python-react](https://github.com/markfinger/python-react)
+8. ![star] Starred [snowpackjs/astro](https://github.com/snowpackjs/astro)
+9. ![star] Starred [AbooMinister25/.dotfiles](https://github.com/AbooMinister25/.dotfiles)
+10. ![star] Starred [ogham/exa](https://github.com/ogham/exa)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
