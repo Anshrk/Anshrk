@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 3rd, 2021, 5:37:55 PM (Indian Standard Time)
+Last Updated: Tuesday, August 3rd, 2021, 11:35:26 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [Boscop/web-view](https://github.com/Boscop/web-view)
-2. ![star] Starred [kb24x7/threadRoll-backend](https://github.com/kb24x7/threadRoll-backend)
-3. ![star] Starred [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![star] Starred [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)
-5. ![prMerged] Merged PR [#1](https://github.com/Anshrk/Anshrk/pull/1) in [Anshrk/Anshrk](https://github.com/Anshrk/Anshrk)
-6. ![repoCreated] Created new repository [Anshrk/fango](https://github.com/Anshrk/fango)
-7. ![fork] Forked [Anshrk/portfolio-website-sulamita](https://github.com/Anshrk/portfolio-website-sulamita) from [divanov11/portfolio-website-sulamita](https://github.com/divanov11/portfolio-website-sulamita)
-8. ![fork] Forked [Anshrk/Axiol](https://github.com/Anshrk/Axiol) from [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-9. ![star] Starred [markfinger/python-react](https://github.com/markfinger/python-react)
-10. ![star] Starred [snowpackjs/astro](https://github.com/snowpackjs/astro)
+1. ![star] Starred [Mr-Manna/FastAPI-CRUD](https://github.com/Mr-Manna/FastAPI-CRUD)
+2. ![star] Starred [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects)
+3. ![star] Starred [Boscop/web-view](https://github.com/Boscop/web-view)
+4. ![star] Starred [kb24x7/threadRoll-backend](https://github.com/kb24x7/threadRoll-backend)
+5. ![star] Starred [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![star] Starred [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)
+7. ![prMerged] Merged PR [#1](https://github.com/Anshrk/Anshrk/pull/1) in [Anshrk/Anshrk](https://github.com/Anshrk/Anshrk)
+8. ![repoCreated] Created new repository [Anshrk/fango](https://github.com/Anshrk/fango)
+9. ![fork] Forked [Anshrk/portfolio-website-sulamita](https://github.com/Anshrk/portfolio-website-sulamita) from [divanov11/portfolio-website-sulamita](https://github.com/divanov11/portfolio-website-sulamita)
+10. ![fork] Forked [Anshrk/Axiol](https://github.com/Anshrk/Axiol) from [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
