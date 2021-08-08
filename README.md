@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 8th, 2021, 5:37:07 PM (Indian Standard Time)
+Last Updated: Sunday, August 8th, 2021, 11:35:19 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [Mr-Manna/FastAPI-CRUD](https://github.com/Mr-Manna/FastAPI-CRUD)
-2. ![star] Starred [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects)
-3. ![star] Starred [Boscop/web-view](https://github.com/Boscop/web-view)
-4. ![star] Starred [kb24x7/threadRoll-backend](https://github.com/kb24x7/threadRoll-backend)
-5. ![star] Starred [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![star] Starred [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)
-7. ![prMerged] Merged PR [#1](https://github.com/Anshrk/Anshrk/pull/1) in [Anshrk/Anshrk](https://github.com/Anshrk/Anshrk)
-8. ![repoCreated] Created new repository [Anshrk/fango](https://github.com/Anshrk/fango)
-9. ![fork] Forked [Anshrk/portfolio-website-sulamita](https://github.com/Anshrk/portfolio-website-sulamita) from [divanov11/portfolio-website-sulamita](https://github.com/divanov11/portfolio-website-sulamita)
-10. ![fork] Forked [Anshrk/Axiol](https://github.com/Anshrk/Axiol) from [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+1. ![repoCreated] Created new repository [Anshrk/AsciiRouge](https://github.com/Anshrk/AsciiRouge)
+2. ![star] Starred [Bozar/GodotRoguelikeTutorial](https://github.com/Bozar/GodotRoguelikeTutorial)
+3. ![star] Starred [Mr-Manna/FastAPI-CRUD](https://github.com/Mr-Manna/FastAPI-CRUD)
+4. ![star] Starred [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects)
+5. ![star] Starred [Boscop/web-view](https://github.com/Boscop/web-view)
+6. ![star] Starred [kb24x7/threadRoll-backend](https://github.com/kb24x7/threadRoll-backend)
+7. ![star] Starred [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![star] Starred [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)
+9. ![prMerged] Merged PR [#1](https://github.com/Anshrk/Anshrk/pull/1) in [Anshrk/Anshrk](https://github.com/Anshrk/Anshrk)
+10. ![repoCreated] Created new repository [Anshrk/fango](https://github.com/Anshrk/fango)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
