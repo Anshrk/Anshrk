@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 15th, 2021, 5:37:30 PM (Indian Standard Time)
+Last Updated: Sunday, August 15th, 2021, 11:36:34 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [kb24x7/discord-autoreply](https://github.com/kb24x7/discord-autoreply)
-2. ![star] Starred [KishanBagaria/localhost-mapper](https://github.com/KishanBagaria/localhost-mapper)
-3. ![repoCreated] Created new repository [Anshrk/AsciiRouge](https://github.com/Anshrk/AsciiRouge)
-4. ![star] Starred [Bozar/GodotRoguelikeTutorial](https://github.com/Bozar/GodotRoguelikeTutorial)
-5. ![star] Starred [Mr-Manna/FastAPI-CRUD](https://github.com/Mr-Manna/FastAPI-CRUD)
-6. ![star] Starred [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects)
-7. ![star] Starred [Boscop/web-view](https://github.com/Boscop/web-view)
-8. ![star] Starred [kb24x7/threadRoll-backend](https://github.com/kb24x7/threadRoll-backend)
-9. ![star] Starred [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![star] Starred [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)
+1. ![star] Starred [dylanaraps/pywal](https://github.com/dylanaraps/pywal)
+2. ![star] Starred [pkkid/pygrid](https://github.com/pkkid/pygrid)
+3. ![star] Starred [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
+4. ![star] Starred [kb24x7/discord-autoreply](https://github.com/kb24x7/discord-autoreply)
+5. ![star] Starred [KishanBagaria/localhost-mapper](https://github.com/KishanBagaria/localhost-mapper)
+6. ![repoCreated] Created new repository [Anshrk/AsciiRouge](https://github.com/Anshrk/AsciiRouge)
+7. ![star] Starred [Bozar/GodotRoguelikeTutorial](https://github.com/Bozar/GodotRoguelikeTutorial)
+8. ![star] Starred [Mr-Manna/FastAPI-CRUD](https://github.com/Mr-Manna/FastAPI-CRUD)
+9. ![star] Starred [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects)
+10. ![star] Starred [Boscop/web-view](https://github.com/Boscop/web-view)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
