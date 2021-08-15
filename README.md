@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 15th, 2021, 11:38:08 AM (Indian Standard Time)
+Last Updated: Sunday, August 15th, 2021, 5:37:30 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [KishanBagaria/localhost-mapper](https://github.com/KishanBagaria/localhost-mapper)
-2. ![repoCreated] Created new repository [Anshrk/AsciiRouge](https://github.com/Anshrk/AsciiRouge)
-3. ![star] Starred [Bozar/GodotRoguelikeTutorial](https://github.com/Bozar/GodotRoguelikeTutorial)
-4. ![star] Starred [Mr-Manna/FastAPI-CRUD](https://github.com/Mr-Manna/FastAPI-CRUD)
-5. ![star] Starred [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects)
-6. ![star] Starred [Boscop/web-view](https://github.com/Boscop/web-view)
-7. ![star] Starred [kb24x7/threadRoll-backend](https://github.com/kb24x7/threadRoll-backend)
-8. ![star] Starred [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![star] Starred [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)
-10. ![prMerged] Merged PR [#1](https://github.com/Anshrk/Anshrk/pull/1) in [Anshrk/Anshrk](https://github.com/Anshrk/Anshrk)
+1. ![star] Starred [kb24x7/discord-autoreply](https://github.com/kb24x7/discord-autoreply)
+2. ![star] Starred [KishanBagaria/localhost-mapper](https://github.com/KishanBagaria/localhost-mapper)
+3. ![repoCreated] Created new repository [Anshrk/AsciiRouge](https://github.com/Anshrk/AsciiRouge)
+4. ![star] Starred [Bozar/GodotRoguelikeTutorial](https://github.com/Bozar/GodotRoguelikeTutorial)
+5. ![star] Starred [Mr-Manna/FastAPI-CRUD](https://github.com/Mr-Manna/FastAPI-CRUD)
+6. ![star] Starred [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects)
+7. ![star] Starred [Boscop/web-view](https://github.com/Boscop/web-view)
+8. ![star] Starred [kb24x7/threadRoll-backend](https://github.com/kb24x7/threadRoll-backend)
+9. ![star] Starred [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![star] Starred [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
