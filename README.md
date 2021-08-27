@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 27th, 2021, 5:38:12 PM (Indian Standard Time)
+Last Updated: Friday, August 27th, 2021, 11:35:38 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-2. ![star] Starred [alephjs/aleph.js](https://github.com/alephjs/aleph.js)
-3. ![star] Starred [dylanaraps/pywal](https://github.com/dylanaraps/pywal)
-4. ![star] Starred [pkkid/pygrid](https://github.com/pkkid/pygrid)
-5. ![star] Starred [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
-6. ![star] Starred [kb24x7/discord-autoreply](https://github.com/kb24x7/discord-autoreply)
-7. ![star] Starred [KishanBagaria/localhost-mapper](https://github.com/KishanBagaria/localhost-mapper)
-8. ![repoCreated] Created new repository [Anshrk/AsciiRouge](https://github.com/Anshrk/AsciiRouge)
-9. ![star] Starred [Bozar/GodotRoguelikeTutorial](https://github.com/Bozar/GodotRoguelikeTutorial)
-10. ![star] Starred [Mr-Manna/FastAPI-CRUD](https://github.com/Mr-Manna/FastAPI-CRUD)
+1. ![prOpened] Opened PR [#36](https://github.com/GitBolt/Axiol/pull/36) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+2. ![issueOpened] Opened issue [#35](https://github.com/GitBolt/Axiol/issues/35) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+3. ![fork] Forked [Anshrk/Axiol](https://github.com/Anshrk/Axiol) from [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+4. ![star] Starred [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+5. ![star] Starred [alephjs/aleph.js](https://github.com/alephjs/aleph.js)
+6. ![star] Starred [dylanaraps/pywal](https://github.com/dylanaraps/pywal)
+7. ![star] Starred [pkkid/pygrid](https://github.com/pkkid/pygrid)
+8. ![star] Starred [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
+9. ![star] Starred [kb24x7/discord-autoreply](https://github.com/kb24x7/discord-autoreply)
+10. ![star] Starred [KishanBagaria/localhost-mapper](https://github.com/KishanBagaria/localhost-mapper)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
