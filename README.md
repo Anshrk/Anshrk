@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 28th, 2021, 11:37:14 AM (Indian Standard Time)
+Last Updated: Saturday, August 28th, 2021, 5:38:13 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#36](https://github.com/GitBolt/Axiol/pull/36) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-2. ![issueOpened] Opened issue [#35](https://github.com/GitBolt/Axiol/issues/35) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-3. ![fork] Forked [Anshrk/Axiol](https://github.com/Anshrk/Axiol) from [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-4. ![star] Starred [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-5. ![star] Starred [alephjs/aleph.js](https://github.com/alephjs/aleph.js)
-6. ![star] Starred [dylanaraps/pywal](https://github.com/dylanaraps/pywal)
-7. ![star] Starred [pkkid/pygrid](https://github.com/pkkid/pygrid)
-8. ![star] Starred [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
-9. ![star] Starred [kb24x7/discord-autoreply](https://github.com/kb24x7/discord-autoreply)
-10. ![star] Starred [KishanBagaria/localhost-mapper](https://github.com/KishanBagaria/localhost-mapper)
+1. ![star] Starred [kb24x7/discordjs-v13-starter](https://github.com/kb24x7/discordjs-v13-starter)
+2. ![prOpened] Opened PR [#36](https://github.com/GitBolt/Axiol/pull/36) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+3. ![issueOpened] Opened issue [#35](https://github.com/GitBolt/Axiol/issues/35) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+4. ![fork] Forked [Anshrk/Axiol](https://github.com/Anshrk/Axiol) from [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+5. ![star] Starred [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+6. ![star] Starred [alephjs/aleph.js](https://github.com/alephjs/aleph.js)
+7. ![star] Starred [dylanaraps/pywal](https://github.com/dylanaraps/pywal)
+8. ![star] Starred [pkkid/pygrid](https://github.com/pkkid/pygrid)
+9. ![star] Starred [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
+10. ![star] Starred [kb24x7/discord-autoreply](https://github.com/kb24x7/discord-autoreply)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
