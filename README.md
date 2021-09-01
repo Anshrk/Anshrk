@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 1st, 2021, 11:38:31 AM (Indian Standard Time)
+Last Updated: Wednesday, September 1st, 2021, 5:38:12 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [kb24x7/discordjs-v13-starter](https://github.com/kb24x7/discordjs-v13-starter)
-2. ![prOpened] Opened PR [#36](https://github.com/GitBolt/Axiol/pull/36) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-3. ![issueOpened] Opened issue [#35](https://github.com/GitBolt/Axiol/issues/35) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-4. ![fork] Forked [Anshrk/Axiol](https://github.com/Anshrk/Axiol) from [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-5. ![star] Starred [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-6. ![star] Starred [alephjs/aleph.js](https://github.com/alephjs/aleph.js)
-7. ![star] Starred [dylanaraps/pywal](https://github.com/dylanaraps/pywal)
-8. ![star] Starred [pkkid/pygrid](https://github.com/pkkid/pygrid)
-9. ![star] Starred [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
-10. ![star] Starred [kb24x7/discord-autoreply](https://github.com/kb24x7/discord-autoreply)
+1. ![star] Starred [codediodeio/sveltefire](https://github.com/codediodeio/sveltefire)
+2. ![star] Starred [kb24x7/discordjs-v13-starter](https://github.com/kb24x7/discordjs-v13-starter)
+3. ![prOpened] Opened PR [#36](https://github.com/GitBolt/Axiol/pull/36) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+4. ![issueOpened] Opened issue [#35](https://github.com/GitBolt/Axiol/issues/35) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+5. ![fork] Forked [Anshrk/Axiol](https://github.com/Anshrk/Axiol) from [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+6. ![star] Starred [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+7. ![star] Starred [alephjs/aleph.js](https://github.com/alephjs/aleph.js)
+8. ![star] Starred [dylanaraps/pywal](https://github.com/dylanaraps/pywal)
+9. ![star] Starred [pkkid/pygrid](https://github.com/pkkid/pygrid)
+10. ![star] Starred [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
