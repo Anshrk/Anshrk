@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 3rd, 2021, 11:38:33 AM (Indian Standard Time)
+Last Updated: Friday, September 3rd, 2021, 5:38:21 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [codediodeio/sveltefire](https://github.com/codediodeio/sveltefire)
-2. ![star] Starred [kb24x7/discordjs-v13-starter](https://github.com/kb24x7/discordjs-v13-starter)
-3. ![prOpened] Opened PR [#36](https://github.com/GitBolt/Axiol/pull/36) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-4. ![issueOpened] Opened issue [#35](https://github.com/GitBolt/Axiol/issues/35) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-5. ![fork] Forked [Anshrk/Axiol](https://github.com/Anshrk/Axiol) from [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-6. ![star] Starred [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-7. ![star] Starred [alephjs/aleph.js](https://github.com/alephjs/aleph.js)
-8. ![star] Starred [dylanaraps/pywal](https://github.com/dylanaraps/pywal)
-9. ![star] Starred [pkkid/pygrid](https://github.com/pkkid/pygrid)
-10. ![star] Starred [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
+1. ![fork] Forked [Anshrk/discogen](https://github.com/Anshrk/discogen) from [GNVageesh/discogen](https://github.com/GNVageesh/discogen)
+2. ![star] Starred [codediodeio/sveltefire](https://github.com/codediodeio/sveltefire)
+3. ![star] Starred [kb24x7/discordjs-v13-starter](https://github.com/kb24x7/discordjs-v13-starter)
+4. ![prOpened] Opened PR [#36](https://github.com/GitBolt/Axiol/pull/36) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+5. ![issueOpened] Opened issue [#35](https://github.com/GitBolt/Axiol/issues/35) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+6. ![fork] Forked [Anshrk/Axiol](https://github.com/Anshrk/Axiol) from [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+7. ![star] Starred [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+8. ![star] Starred [alephjs/aleph.js](https://github.com/alephjs/aleph.js)
+9. ![star] Starred [dylanaraps/pywal](https://github.com/dylanaraps/pywal)
+10. ![star] Starred [pkkid/pygrid](https://github.com/pkkid/pygrid)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
