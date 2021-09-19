@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 19th, 2021, 5:51:01 AM (Indian Standard Time)
+Last Updated: Sunday, September 19th, 2021, 11:36:49 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [0xEquinox/Logos](https://github.com/0xEquinox/Logos)
-2. ![fork] Forked [Anshrk/discogen](https://github.com/Anshrk/discogen) from [GNVageesh/discogen](https://github.com/GNVageesh/discogen)
-3. ![star] Starred [codediodeio/sveltefire](https://github.com/codediodeio/sveltefire)
-4. ![star] Starred [kb24x7/discordjs-v13-starter](https://github.com/kb24x7/discordjs-v13-starter)
-5. ![prOpened] Opened PR [#36](https://github.com/GitBolt/Axiol/pull/36) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-6. ![issueOpened] Opened issue [#35](https://github.com/GitBolt/Axiol/issues/35) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-7. ![fork] Forked [Anshrk/Axiol](https://github.com/Anshrk/Axiol) from [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-8. ![star] Starred [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-9. ![star] Starred [alephjs/aleph.js](https://github.com/alephjs/aleph.js)
-10. ![star] Starred [dylanaraps/pywal](https://github.com/dylanaraps/pywal)
+1. ![fork] Forked [Anshrk/.files](https://github.com/Anshrk/.files) from [AbooMinister25/.files](https://github.com/AbooMinister25/.files)
+2. ![star] Starred [Column01/Discord-Moderation-Bot](https://github.com/Column01/Discord-Moderation-Bot)
+3. ![star] Starred [0xEquinox/Logos](https://github.com/0xEquinox/Logos)
+4. ![fork] Forked [Anshrk/discogen](https://github.com/Anshrk/discogen) from [GNVageesh/discogen](https://github.com/GNVageesh/discogen)
+5. ![star] Starred [codediodeio/sveltefire](https://github.com/codediodeio/sveltefire)
+6. ![star] Starred [kb24x7/discordjs-v13-starter](https://github.com/kb24x7/discordjs-v13-starter)
+7. ![prOpened] Opened PR [#36](https://github.com/GitBolt/Axiol/pull/36) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+8. ![issueOpened] Opened issue [#35](https://github.com/GitBolt/Axiol/issues/35) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+9. ![fork] Forked [Anshrk/Axiol](https://github.com/Anshrk/Axiol) from [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+10. ![star] Starred [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
