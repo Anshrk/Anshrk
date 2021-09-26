@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 26th, 2021, 11:36:03 AM (Indian Standard Time)
+Last Updated: Sunday, September 26th, 2021, 5:37:51 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [brblacky/lavamusic](https://github.com/brblacky/lavamusic)
-2. ![fork] Forked [Anshrk/lavamusic](https://github.com/Anshrk/lavamusic) from [brblacky/lavamusic](https://github.com/brblacky/lavamusic)
-3. ![fork] Forked [Anshrk/.files](https://github.com/Anshrk/.files) from [AbooMinister25/.files](https://github.com/AbooMinister25/.files)
-4. ![star] Starred [Column01/Discord-Moderation-Bot](https://github.com/Column01/Discord-Moderation-Bot)
-5. ![star] Starred [0xEquinox/Logos](https://github.com/0xEquinox/Logos)
-6. ![fork] Forked [Anshrk/discogen](https://github.com/Anshrk/discogen) from [GNVageesh/discogen](https://github.com/GNVageesh/discogen)
-7. ![star] Starred [codediodeio/sveltefire](https://github.com/codediodeio/sveltefire)
-8. ![star] Starred [kb24x7/discordjs-v13-starter](https://github.com/kb24x7/discordjs-v13-starter)
-9. ![prOpened] Opened PR [#36](https://github.com/GitBolt/Axiol/pull/36) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-10. ![issueOpened] Opened issue [#35](https://github.com/GitBolt/Axiol/issues/35) in [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+1. ![star] Starred [Anshrk/dog](https://github.com/Anshrk/dog)
+2. ![star] Starred [Anshrk/fastapi-react](https://github.com/Anshrk/fastapi-react)
+3. ![star] Starred [Anshrk/fango](https://github.com/Anshrk/fango)
+4. ![star] Starred [Anshrk/.files](https://github.com/Anshrk/.files)
+5. ![star] Starred [Anshrk/AsciiRouge](https://github.com/Anshrk/AsciiRouge)
+6. ![star] Starred [Anshrk/discogen](https://github.com/Anshrk/discogen)
+7. ![star] Starred [Anshrk/lavamusic](https://github.com/Anshrk/lavamusic)
+8. ![star] Starred [brblacky/lavamusic](https://github.com/brblacky/lavamusic)
+9. ![fork] Forked [Anshrk/lavamusic](https://github.com/Anshrk/lavamusic) from [brblacky/lavamusic](https://github.com/brblacky/lavamusic)
+10. ![fork] Forked [Anshrk/.files](https://github.com/Anshrk/.files) from [AbooMinister25/.files](https://github.com/AbooMinister25/.files)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
