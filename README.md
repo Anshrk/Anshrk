@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 16th, 2021, 11:36:51 AM (Indian Standard Time)
+Last Updated: Saturday, October 16th, 2021, 5:38:12 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [Anshrk/dog](https://github.com/Anshrk/dog)
-2. ![star] Starred [Anshrk/fastapi-react](https://github.com/Anshrk/fastapi-react)
-3. ![star] Starred [Anshrk/fango](https://github.com/Anshrk/fango)
-4. ![star] Starred [Anshrk/.files](https://github.com/Anshrk/.files)
-5. ![star] Starred [Anshrk/AsciiRouge](https://github.com/Anshrk/AsciiRouge)
-6. ![star] Starred [Anshrk/discogen](https://github.com/Anshrk/discogen)
-7. ![star] Starred [Anshrk/lavamusic](https://github.com/Anshrk/lavamusic)
-8. ![star] Starred [brblacky/lavamusic](https://github.com/brblacky/lavamusic)
-9. ![fork] Forked [Anshrk/lavamusic](https://github.com/Anshrk/lavamusic) from [brblacky/lavamusic](https://github.com/brblacky/lavamusic)
-10. ![fork] Forked [Anshrk/.files](https://github.com/Anshrk/.files) from [AbooMinister25/.files](https://github.com/AbooMinister25/.files)
+1. ![star] Starred [pystardust/ani-cli](https://github.com/pystardust/ani-cli)
+2. ![star] Starred [Anshrk/dog](https://github.com/Anshrk/dog)
+3. ![star] Starred [Anshrk/fastapi-react](https://github.com/Anshrk/fastapi-react)
+4. ![star] Starred [Anshrk/fango](https://github.com/Anshrk/fango)
+5. ![star] Starred [Anshrk/.files](https://github.com/Anshrk/.files)
+6. ![star] Starred [Anshrk/AsciiRouge](https://github.com/Anshrk/AsciiRouge)
+7. ![star] Starred [Anshrk/discogen](https://github.com/Anshrk/discogen)
+8. ![star] Starred [Anshrk/lavamusic](https://github.com/Anshrk/lavamusic)
+9. ![star] Starred [brblacky/lavamusic](https://github.com/brblacky/lavamusic)
+10. ![fork] Forked [Anshrk/lavamusic](https://github.com/Anshrk/lavamusic) from [brblacky/lavamusic](https://github.com/brblacky/lavamusic)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
