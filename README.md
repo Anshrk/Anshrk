@@ -120,12 +120,12 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 1st, 2022, 5:39:27 PM (Indian Standard Time)
+Last Updated: Saturday, January 1st, 2022, 11:38:25 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [pystardust/ani-cli](https://github.com/pystardust/ani-cli)
-2. ![star] Starred [Anshrk/dog](https://github.com/Anshrk/dog)
-3. ![star] Starred [Anshrk/fastapi-react](https://github.com/Anshrk/fastapi-react)
+1. ![star] Starred [farhan2077/farhan2077.github.io](https://github.com/farhan2077/farhan2077.github.io)
+2. ![star] Starred [ken20001207/Portfolio](https://github.com/ken20001207/Portfolio)
+3. ![star] Starred [pystardust/ani-cli](https://github.com/pystardust/ani-cli)
 4. ![star] Starred [Anshrk/fango](https://github.com/Anshrk/fango)
 5. ![star] Starred [Anshrk/.files](https://github.com/Anshrk/.files)
 6. ![star] Starred [Anshrk/AsciiRouge](https://github.com/Anshrk/AsciiRouge)
