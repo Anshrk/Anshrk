@@ -120,17 +120,17 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 13th, 2023, 11:39:56 AM (Indian Standard Time)
+Last Updated: Monday, March 13th, 2023, 5:43:51 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created new repository [Anshrk/Reinforcement-Learning](https://github.com/Anshrk/Reinforcement-Learning)
-2. ![star] Starred [ken20001207/Portfolio](https://github.com/ken20001207/Portfolio)
-3. ![star] Starred [pystardust/ani-cli](https://github.com/pystardust/ani-cli)
-4. ![star] Starred [Anshrk/fango](https://github.com/Anshrk/fango)
-5. ![star] Starred [Anshrk/.files](https://github.com/Anshrk/.files)
-6. ![star] Starred [Anshrk/AsciiRouge](https://github.com/Anshrk/AsciiRouge)
-7. ![star] Starred [Anshrk/discogen](https://github.com/Anshrk/discogen)
-8. ![star] Starred [Anshrk/lavamusic](https://github.com/Anshrk/lavamusic)
+1. ![star] Starred [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
+2. ![star] Starred [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+3. ![star] Starred [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+4. ![star] Starred [TheAlgorithms/C](https://github.com/TheAlgorithms/C)
+5. ![star] Starred [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+6. ![star] Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+7. ![star] Starred [jiajunhua/jlevy-the-art-of-command-line](https://github.com/jiajunhua/jlevy-the-art-of-command-line)
+8. ![star] Starred [Anshrk/ElectroRecorder](https://github.com/Anshrk/ElectroRecorder)
 9. ![star] Starred [brblacky/lavamusic](https://github.com/brblacky/lavamusic)
 10. ![fork] Forked [Anshrk/lavamusic](https://github.com/Anshrk/lavamusic) from [brblacky/lavamusic](https://github.com/brblacky/lavamusic)
 <!--RECENT_ACTIVITY:end-->
