@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 16th, 2023, 5:43:05 PM (Indian Standard Time)
+Last Updated: Thursday, March 16th, 2023, 11:39:05 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
-2. ![star] Starred [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-3. ![star] Starred [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-4. ![star] Starred [TheAlgorithms/C](https://github.com/TheAlgorithms/C)
-5. ![star] Starred [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
-6. ![star] Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
-7. ![star] Starred [jiajunhua/jlevy-the-art-of-command-line](https://github.com/jiajunhua/jlevy-the-art-of-command-line)
-8. ![star] Starred [Anshrk/ElectroRecorder](https://github.com/Anshrk/ElectroRecorder)
-9. ![star] Starred [brblacky/lavamusic](https://github.com/brblacky/lavamusic)
-10. ![fork] Forked [Anshrk/lavamusic](https://github.com/Anshrk/lavamusic) from [brblacky/lavamusic](https://github.com/brblacky/lavamusic)
+1. ![star] Starred [RichardDorian/node-character.ai](https://github.com/RichardDorian/node-character.ai)
+2. ![star] Starred [realcoloride/node_characterai](https://github.com/realcoloride/node_characterai)
+3. ![star] Starred [niizam/tcharai](https://github.com/niizam/tcharai)
+4. ![star] Starred [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
+5. ![star] Starred [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+6. ![star] Starred [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+7. ![star] Starred [TheAlgorithms/C](https://github.com/TheAlgorithms/C)
+8. ![star] Starred [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+9. ![star] Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+10. ![star] Starred [jiajunhua/jlevy-the-art-of-command-line](https://github.com/jiajunhua/jlevy-the-art-of-command-line)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
