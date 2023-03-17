@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 16th, 2023, 11:39:05 PM (Indian Standard Time)
+Last Updated: Friday, March 17th, 2023, 6:07:46 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [RichardDorian/node-character.ai](https://github.com/RichardDorian/node-character.ai)
-2. ![star] Starred [realcoloride/node_characterai](https://github.com/realcoloride/node_characterai)
-3. ![star] Starred [niizam/tcharai](https://github.com/niizam/tcharai)
-4. ![star] Starred [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
-5. ![star] Starred [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-6. ![star] Starred [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-7. ![star] Starred [TheAlgorithms/C](https://github.com/TheAlgorithms/C)
-8. ![star] Starred [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
-9. ![star] Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
-10. ![star] Starred [jiajunhua/jlevy-the-art-of-command-line](https://github.com/jiajunhua/jlevy-the-art-of-command-line)
+1. ![fork] Forked [Anshrk/midjourney-reborn](https://github.com/Anshrk/midjourney-reborn) from [oelin/midjourney-reborn](https://github.com/oelin/midjourney-reborn)
+2. ![star] Starred [oelin/midjourney-reborn](https://github.com/oelin/midjourney-reborn)
+3. ![star] Starred [RichardDorian/node-character.ai](https://github.com/RichardDorian/node-character.ai)
+4. ![star] Starred [realcoloride/node_characterai](https://github.com/realcoloride/node_characterai)
+5. ![star] Starred [niizam/tcharai](https://github.com/niizam/tcharai)
+6. ![star] Starred [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
+7. ![star] Starred [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+8. ![star] Starred [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+9. ![star] Starred [TheAlgorithms/C](https://github.com/TheAlgorithms/C)
+10. ![star] Starred [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
