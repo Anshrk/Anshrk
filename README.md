@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 20th, 2023, 6:08:46 AM (Indian Standard Time)
+Last Updated: Monday, March 20th, 2023, 11:40:00 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![fork] Forked [Anshrk/midjourney-reborn](https://github.com/Anshrk/midjourney-reborn) from [oelin/midjourney-reborn](https://github.com/oelin/midjourney-reborn)
-2. ![star] Starred [oelin/midjourney-reborn](https://github.com/oelin/midjourney-reborn)
-3. ![star] Starred [RichardDorian/node-character.ai](https://github.com/RichardDorian/node-character.ai)
-4. ![star] Starred [realcoloride/node_characterai](https://github.com/realcoloride/node_characterai)
-5. ![star] Starred [niizam/tcharai](https://github.com/niizam/tcharai)
-6. ![star] Starred [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
-7. ![star] Starred [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-8. ![star] Starred [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-9. ![star] Starred [TheAlgorithms/C](https://github.com/TheAlgorithms/C)
-10. ![star] Starred [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+1. ![fork] Forked [Anshrk/sveltekit-fastapi-mongodb](https://github.com/Anshrk/sveltekit-fastapi-mongodb) from [smartgoo/sveltekit-fastapi-mongodb](https://github.com/smartgoo/sveltekit-fastapi-mongodb)
+2. ![star] Starred [Anshrk/user-bot](https://github.com/Anshrk/user-bot)
+3. ![star] Starred [smartgoo/sveltekit-fastapi-mongodb](https://github.com/smartgoo/sveltekit-fastapi-mongodb)
+4. ![fork] Forked [Anshrk/midjourney-reborn](https://github.com/Anshrk/midjourney-reborn) from [oelin/midjourney-reborn](https://github.com/oelin/midjourney-reborn)
+5. ![star] Starred [oelin/midjourney-reborn](https://github.com/oelin/midjourney-reborn)
+6. ![star] Starred [RichardDorian/node-character.ai](https://github.com/RichardDorian/node-character.ai)
+7. ![star] Starred [realcoloride/node_characterai](https://github.com/realcoloride/node_characterai)
+8. ![star] Starred [niizam/tcharai](https://github.com/niizam/tcharai)
+9. ![star] Starred [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
+10. ![star] Starred [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
