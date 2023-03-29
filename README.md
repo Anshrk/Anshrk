@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 28th, 2023, 11:38:35 PM (Indian Standard Time)
+Last Updated: Wednesday, March 29th, 2023, 6:10:08 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [uselessscat/fastapi-migrations](https://github.com/uselessscat/fastapi-migrations)
-2. ![star] Starred [Anshrk/Reinforcement-Learning](https://github.com/Anshrk/Reinforcement-Learning)
+1. ![star] Starred [lichess-org/lila](https://github.com/lichess-org/lila)
+2. ![star] Starred [uselessscat/fastapi-migrations](https://github.com/uselessscat/fastapi-migrations)
 3. ![star] Starred [Anshrk/Reinforcement-Learning](https://github.com/Anshrk/Reinforcement-Learning)
-4. ![fork] Forked [Anshrk/sveltekit-fastapi-mongodb](https://github.com/Anshrk/sveltekit-fastapi-mongodb) from [smartgoo/sveltekit-fastapi-mongodb](https://github.com/smartgoo/sveltekit-fastapi-mongodb)
-5. ![star] Starred [Anshrk/user-bot](https://github.com/Anshrk/user-bot)
-6. ![star] Starred [smartgoo/sveltekit-fastapi-mongodb](https://github.com/smartgoo/sveltekit-fastapi-mongodb)
-7. ![fork] Forked [Anshrk/midjourney-reborn](https://github.com/Anshrk/midjourney-reborn) from [oelin/midjourney-reborn](https://github.com/oelin/midjourney-reborn)
-8. ![star] Starred [oelin/midjourney-reborn](https://github.com/oelin/midjourney-reborn)
-9. ![star] Starred [RichardDorian/node-character.ai](https://github.com/RichardDorian/node-character.ai)
-10. ![star] Starred [realcoloride/node_characterai](https://github.com/realcoloride/node_characterai)
+4. ![star] Starred [Anshrk/Reinforcement-Learning](https://github.com/Anshrk/Reinforcement-Learning)
+5. ![fork] Forked [Anshrk/sveltekit-fastapi-mongodb](https://github.com/Anshrk/sveltekit-fastapi-mongodb) from [smartgoo/sveltekit-fastapi-mongodb](https://github.com/smartgoo/sveltekit-fastapi-mongodb)
+6. ![star] Starred [Anshrk/user-bot](https://github.com/Anshrk/user-bot)
+7. ![star] Starred [smartgoo/sveltekit-fastapi-mongodb](https://github.com/smartgoo/sveltekit-fastapi-mongodb)
+8. ![fork] Forked [Anshrk/midjourney-reborn](https://github.com/Anshrk/midjourney-reborn) from [oelin/midjourney-reborn](https://github.com/oelin/midjourney-reborn)
+9. ![star] Starred [oelin/midjourney-reborn](https://github.com/oelin/midjourney-reborn)
+10. ![star] Starred [RichardDorian/node-character.ai](https://github.com/RichardDorian/node-character.ai)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
