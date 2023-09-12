@@ -120,14 +120,14 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 11th, 2023, 11:38:04 PM (Indian Standard Time)
+Last Updated: Tuesday, September 12th, 2023, 5:59:09 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [arpit-omprakash/100ProjectsOfCode](https://github.com/arpit-omprakash/100ProjectsOfCode)
-2. ![star] Starred [jetfir3/SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)
-3. ![star] Starred [djthegr8/Mission-Vimaan](https://github.com/djthegr8/Mission-Vimaan)
-4. ![star] Starred [Anshrk/Reinforcement-Learning](https://github.com/Anshrk/Reinforcement-Learning)
-5. ![star] Starred [Anshrk/Reinforcement-Learning](https://github.com/Anshrk/Reinforcement-Learning)
+1. ![star] Starred [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
+2. ![repoCreated] Created new repository [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
+3. ![star] Starred [arpit-omprakash/100ProjectsOfCode](https://github.com/arpit-omprakash/100ProjectsOfCode)
+4. ![star] Starred [jetfir3/SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)
+5. ![star] Starred [djthegr8/Mission-Vimaan](https://github.com/djthegr8/Mission-Vimaan)
 6. ![fork] Forked [Anshrk/sveltekit-fastapi-mongodb](https://github.com/Anshrk/sveltekit-fastapi-mongodb) from [smartgoo/sveltekit-fastapi-mongodb](https://github.com/smartgoo/sveltekit-fastapi-mongodb)
 7. ![star] Starred [Anshrk/user-bot](https://github.com/Anshrk/user-bot)
 8. ![star] Starred [smartgoo/sveltekit-fastapi-mongodb](https://github.com/smartgoo/sveltekit-fastapi-mongodb)
