@@ -120,16 +120,16 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 15th, 2023, 5:41:31 PM (Indian Standard Time)
+Last Updated: Friday, September 15th, 2023, 11:37:52 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [GitBolt/spacerds](https://github.com/GitBolt/spacerds)
-2. ![star] Starred [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
-3. ![repoCreated] Created new repository [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
-4. ![star] Starred [arpit-omprakash/100ProjectsOfCode](https://github.com/arpit-omprakash/100ProjectsOfCode)
-5. ![star] Starred [jetfir3/SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)
-6. ![star] Starred [djthegr8/Mission-Vimaan](https://github.com/djthegr8/Mission-Vimaan)
-7. ![star] Starred [Anshrk/user-bot](https://github.com/Anshrk/user-bot)
+1. ![star] Starred [ZFCon/manga-reader](https://github.com/ZFCon/manga-reader)
+2. ![star] Starred [GitBolt/spacerds](https://github.com/GitBolt/spacerds)
+3. ![star] Starred [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
+4. ![repoCreated] Created new repository [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
+5. ![star] Starred [arpit-omprakash/100ProjectsOfCode](https://github.com/arpit-omprakash/100ProjectsOfCode)
+6. ![star] Starred [jetfir3/SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)
+7. ![star] Starred [djthegr8/Mission-Vimaan](https://github.com/djthegr8/Mission-Vimaan)
 8. ![star] Starred [smartgoo/sveltekit-fastapi-mongodb](https://github.com/smartgoo/sveltekit-fastapi-mongodb)
 9. ![fork] Forked [Anshrk/midjourney-reborn](https://github.com/Anshrk/midjourney-reborn) from [oelin/midjourney-reborn](https://github.com/oelin/midjourney-reborn)
 10. ![star] Starred [oelin/midjourney-reborn](https://github.com/oelin/midjourney-reborn)
