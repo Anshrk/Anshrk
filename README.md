@@ -120,18 +120,18 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 20th, 2023, 5:43:02 PM (Indian Standard Time)
+Last Updated: Monday, November 20th, 2023, 11:39:08 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [NifulIslam/EWasteNet-A-Two-Stream-DeiT-Approach-for-E-Waste-Classification](https://github.com/NifulIslam/EWasteNet-A-Two-Stream-DeiT-Approach-for-E-Waste-Classification)
-2. ![people] Became collaborator on [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
-3. ![star] Starred [ZFCon/manga-reader](https://github.com/ZFCon/manga-reader)
-4. ![star] Starred [GitBolt/spacerds](https://github.com/GitBolt/spacerds)
-5. ![star] Starred [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
-6. ![repoCreated] Created new repository [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
-7. ![star] Starred [arpit-omprakash/100ProjectsOfCode](https://github.com/arpit-omprakash/100ProjectsOfCode)
-8. ![star] Starred [jetfir3/SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)
-9. ![fork] Forked [Anshrk/midjourney-reborn](https://github.com/Anshrk/midjourney-reborn) from [oelin/midjourney-reborn](https://github.com/oelin/midjourney-reborn)
+1. ![star] Starred [0x61nas/aarty](https://github.com/0x61nas/aarty)
+2. ![star] Starred [NifulIslam/EWasteNet-A-Two-Stream-DeiT-Approach-for-E-Waste-Classification](https://github.com/NifulIslam/EWasteNet-A-Two-Stream-DeiT-Approach-for-E-Waste-Classification)
+3. ![people] Became collaborator on [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
+4. ![star] Starred [ZFCon/manga-reader](https://github.com/ZFCon/manga-reader)
+5. ![star] Starred [GitBolt/spacerds](https://github.com/GitBolt/spacerds)
+6. ![star] Starred [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
+7. ![repoCreated] Created new repository [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
+8. ![star] Starred [arpit-omprakash/100ProjectsOfCode](https://github.com/arpit-omprakash/100ProjectsOfCode)
+9. ![star] Starred [jetfir3/SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)
 10. ![star] Starred [oelin/midjourney-reborn](https://github.com/oelin/midjourney-reborn)
 <!--RECENT_ACTIVITY:end-->
 
