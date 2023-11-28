@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 28th, 2023, 5:42:27 PM (Indian Standard Time)
+Last Updated: Tuesday, November 28th, 2023, 11:39:06 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [Abhishekmishra-17/Phenol-formaldehyde-Resin-Urea-formaldehyde-resin](https://github.com/Abhishekmishra-17/Phenol-formaldehyde-Resin-Urea-formaldehyde-resin)
-2. ![star] Starred [0x61nas/aarty](https://github.com/0x61nas/aarty)
-3. ![star] Starred [NifulIslam/EWasteNet-A-Two-Stream-DeiT-Approach-for-E-Waste-Classification](https://github.com/NifulIslam/EWasteNet-A-Two-Stream-DeiT-Approach-for-E-Waste-Classification)
-4. ![people] Became collaborator on [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
-5. ![star] Starred [ZFCon/manga-reader](https://github.com/ZFCon/manga-reader)
-6. ![star] Starred [GitBolt/spacerds](https://github.com/GitBolt/spacerds)
-7. ![star] Starred [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
-8. ![repoCreated] Created new repository [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
-9. ![star] Starred [arpit-omprakash/100ProjectsOfCode](https://github.com/arpit-omprakash/100ProjectsOfCode)
-10. ![star] Starred [jetfir3/SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)
+1. ![star] Starred [streamlit/streamlit](https://github.com/streamlit/streamlit)
+2. ![star] Starred [Abhishekmishra-17/Phenol-formaldehyde-Resin-Urea-formaldehyde-resin](https://github.com/Abhishekmishra-17/Phenol-formaldehyde-Resin-Urea-formaldehyde-resin)
+3. ![star] Starred [0x61nas/aarty](https://github.com/0x61nas/aarty)
+4. ![star] Starred [NifulIslam/EWasteNet-A-Two-Stream-DeiT-Approach-for-E-Waste-Classification](https://github.com/NifulIslam/EWasteNet-A-Two-Stream-DeiT-Approach-for-E-Waste-Classification)
+5. ![people] Became collaborator on [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
+6. ![star] Starred [ZFCon/manga-reader](https://github.com/ZFCon/manga-reader)
+7. ![star] Starred [GitBolt/spacerds](https://github.com/GitBolt/spacerds)
+8. ![star] Starred [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
+9. ![repoCreated] Created new repository [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
+10. ![star] Starred [arpit-omprakash/100ProjectsOfCode](https://github.com/arpit-omprakash/100ProjectsOfCode)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
