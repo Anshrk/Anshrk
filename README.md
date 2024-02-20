@@ -120,14 +120,14 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 20th, 2024, 11:39:16 AM (Indian Standard Time)
+Last Updated: Tuesday, February 20th, 2024, 5:41:40 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created new repository [Anshrk/pka-simulation](https://github.com/Anshrk/pka-simulation)
-2. ![star] Starred [streamlit/streamlit](https://github.com/streamlit/streamlit)
-3. ![star] Starred [Abhishekmishra-17/Phenol-formaldehyde-Resin-Urea-formaldehyde-resin](https://github.com/Abhishekmishra-17/Phenol-formaldehyde-Resin-Urea-formaldehyde-resin)
-4. ![star] Starred [0x61nas/aarty](https://github.com/0x61nas/aarty)
-5. ![star] Starred [NifulIslam/EWasteNet-A-Two-Stream-DeiT-Approach-for-E-Waste-Classification](https://github.com/NifulIslam/EWasteNet-A-Two-Stream-DeiT-Approach-for-E-Waste-Classification)
+1. ![star] Starred [AnanthMAthreya/1st-year-resources-2022-scheme-](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-)
+2. ![repoCreated] Created new repository [Anshrk/pka-simulation](https://github.com/Anshrk/pka-simulation)
+3. ![star] Starred [streamlit/streamlit](https://github.com/streamlit/streamlit)
+4. ![star] Starred [Abhishekmishra-17/Phenol-formaldehyde-Resin-Urea-formaldehyde-resin](https://github.com/Abhishekmishra-17/Phenol-formaldehyde-Resin-Urea-formaldehyde-resin)
+5. ![star] Starred [0x61nas/aarty](https://github.com/0x61nas/aarty)
 6. ![star] Starred [ZFCon/manga-reader](https://github.com/ZFCon/manga-reader)
 7. ![star] Starred [GitBolt/spacerds](https://github.com/GitBolt/spacerds)
 8. ![star] Starred [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
