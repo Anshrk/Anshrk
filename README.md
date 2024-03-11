@@ -120,16 +120,16 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 11th, 2024, 5:42:12 PM (Indian Standard Time)
+Last Updated: Monday, March 11th, 2024, 11:38:49 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [BoogieMonster1O1/icystudy](https://github.com/BoogieMonster1O1/icystudy)
-2. ![people] Became collaborator on [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
+1. ![repoCreated] Created new repository [Anshrk/ECL-SafeHaven](https://github.com/Anshrk/ECL-SafeHaven)
+2. ![star] Starred [BoogieMonster1O1/icystudy](https://github.com/BoogieMonster1O1/icystudy)
 3. ![people] Became collaborator on [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
-4. ![repoCreated] Created new repository [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
-5. ![star] Starred [AnanthMAthreya/1st-year-resources-2022-scheme-](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-)
-6. ![repoCreated] Created new repository [Anshrk/pka-simulation](https://github.com/Anshrk/pka-simulation)
-7. ![star] Starred [GitBolt/spacerds](https://github.com/GitBolt/spacerds)
+4. ![people] Became collaborator on [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
+5. ![repoCreated] Created new repository [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
+6. ![star] Starred [AnanthMAthreya/1st-year-resources-2022-scheme-](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-)
+7. ![repoCreated] Created new repository [Anshrk/pka-simulation](https://github.com/Anshrk/pka-simulation)
 8. ![star] Starred [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
 9. ![repoCreated] Created new repository [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
 10. ![star] Starred [arpit-omprakash/100ProjectsOfCode](https://github.com/arpit-omprakash/100ProjectsOfCode)
