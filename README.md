@@ -120,18 +120,18 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 12th, 2024, 6:01:29 AM (Indian Standard Time)
+Last Updated: Tuesday, March 12th, 2024, 11:39:11 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created new repository [Anshrk/ECL-SafeHaven](https://github.com/Anshrk/ECL-SafeHaven)
-2. ![star] Starred [BoogieMonster1O1/icystudy](https://github.com/BoogieMonster1O1/icystudy)
-3. ![people] Became collaborator on [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
-4. ![people] Became collaborator on [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
-5. ![repoCreated] Created new repository [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
-6. ![star] Starred [AnanthMAthreya/1st-year-resources-2022-scheme-](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-)
-7. ![repoCreated] Created new repository [Anshrk/pka-simulation](https://github.com/Anshrk/pka-simulation)
-8. ![star] Starred [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
-9. ![repoCreated] Created new repository [Anshrk/AdvoDash](https://github.com/Anshrk/AdvoDash)
+1. ![people] Became collaborator on [Anshrk/ECL-SafeHaven](https://github.com/Anshrk/ECL-SafeHaven)
+2. ![people] Became collaborator on [Anshrk/ECL-SafeHaven](https://github.com/Anshrk/ECL-SafeHaven)
+3. ![repoCreated] Created new repository [Anshrk/ECL-SafeHaven](https://github.com/Anshrk/ECL-SafeHaven)
+4. ![star] Starred [BoogieMonster1O1/icystudy](https://github.com/BoogieMonster1O1/icystudy)
+5. ![people] Became collaborator on [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
+6. ![people] Became collaborator on [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
+7. ![repoCreated] Created new repository [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
+8. ![star] Starred [AnanthMAthreya/1st-year-resources-2022-scheme-](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-)
+9. ![repoCreated] Created new repository [Anshrk/pka-simulation](https://github.com/Anshrk/pka-simulation)
 10. ![star] Starred [arpit-omprakash/100ProjectsOfCode](https://github.com/arpit-omprakash/100ProjectsOfCode)
 <!--RECENT_ACTIVITY:end-->
 
