@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 13th, 2024, 11:38:21 PM (Indian Standard Time)
+Last Updated: Thursday, March 14th, 2024, 6:01:39 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![people] Became collaborator on [Anshrk/ECL-SafeHaven](https://github.com/Anshrk/ECL-SafeHaven)
+1. ![repoCreated] Created new repository [Anshrk/ECL-SafeHaven-Frontend](https://github.com/Anshrk/ECL-SafeHaven-Frontend)
 2. ![people] Became collaborator on [Anshrk/ECL-SafeHaven](https://github.com/Anshrk/ECL-SafeHaven)
-3. ![repoCreated] Created new repository [Anshrk/ECL-SafeHaven](https://github.com/Anshrk/ECL-SafeHaven)
-4. ![star] Starred [BoogieMonster1O1/icystudy](https://github.com/BoogieMonster1O1/icystudy)
-5. ![people] Became collaborator on [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
+3. ![people] Became collaborator on [Anshrk/ECL-SafeHaven](https://github.com/Anshrk/ECL-SafeHaven)
+4. ![repoCreated] Created new repository [Anshrk/ECL-SafeHaven](https://github.com/Anshrk/ECL-SafeHaven)
+5. ![star] Starred [BoogieMonster1O1/icystudy](https://github.com/BoogieMonster1O1/icystudy)
 6. ![people] Became collaborator on [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
-7. ![repoCreated] Created new repository [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
-8. ![star] Starred [AnanthMAthreya/1st-year-resources-2022-scheme-](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-)
-9. ![repoCreated] Created new repository [Anshrk/pka-simulation](https://github.com/Anshrk/pka-simulation)
-10. ![star] Starred [arpit-omprakash/100ProjectsOfCode](https://github.com/arpit-omprakash/100ProjectsOfCode)
+7. ![people] Became collaborator on [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
+8. ![repoCreated] Created new repository [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
+9. ![star] Starred [AnanthMAthreya/1st-year-resources-2022-scheme-](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-)
+10. ![repoCreated] Created new repository [Anshrk/pka-simulation](https://github.com/Anshrk/pka-simulation)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
