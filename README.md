@@ -120,19 +120,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 13th, 2024, 5:43:15 PM (Indian Standard Time)
+Last Updated: Monday, May 13th, 2024, 11:38:11 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [MasterKrab/chat-group](https://github.com/MasterKrab/chat-group)
-2. ![repoCreated] Created new repository [Anshrk/ECL-SafeHaven-Frontend](https://github.com/Anshrk/ECL-SafeHaven-Frontend)
-3. ![people] Became collaborator on [Anshrk/ECL-SafeHaven](https://github.com/Anshrk/ECL-SafeHaven)
+1. ![star] Starred [AnanthMAthreya/1st-year-resources-2022-scheme-](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-)
+2. ![star] Starred [MasterKrab/chat-group](https://github.com/MasterKrab/chat-group)
+3. ![repoCreated] Created new repository [Anshrk/ECL-SafeHaven-Frontend](https://github.com/Anshrk/ECL-SafeHaven-Frontend)
 4. ![people] Became collaborator on [Anshrk/ECL-SafeHaven](https://github.com/Anshrk/ECL-SafeHaven)
-5. ![repoCreated] Created new repository [Anshrk/ECL-SafeHaven](https://github.com/Anshrk/ECL-SafeHaven)
-6. ![star] Starred [BoogieMonster1O1/icystudy](https://github.com/BoogieMonster1O1/icystudy)
-7. ![people] Became collaborator on [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
+5. ![people] Became collaborator on [Anshrk/ECL-SafeHaven](https://github.com/Anshrk/ECL-SafeHaven)
+6. ![repoCreated] Created new repository [Anshrk/ECL-SafeHaven](https://github.com/Anshrk/ECL-SafeHaven)
+7. ![star] Starred [BoogieMonster1O1/icystudy](https://github.com/BoogieMonster1O1/icystudy)
 8. ![people] Became collaborator on [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
-9. ![repoCreated] Created new repository [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
-10. ![star] Starred [AnanthMAthreya/1st-year-resources-2022-scheme-](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-)
+9. ![people] Became collaborator on [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
+10. ![repoCreated] Created new repository [Anshrk/ICIQ-FdQzBd45](https://github.com/Anshrk/ICIQ-FdQzBd45)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
