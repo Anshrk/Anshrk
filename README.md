@@ -120,12 +120,12 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 26th, 2024, 11:42:11 AM (Indian Standard Time)
+Last Updated: Monday, August 26th, 2024, 5:45:18 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [codingclubrvce/Placement_Prep](https://github.com/codingclubrvce/Placement_Prep)
-2. ![repoCreated] Created new repository [Anshrk/Attendance-System](https://github.com/Anshrk/Attendance-System)
-3. ![repoCreated] Created new repository [Anshrk/ECL-SafeHaven-Frontend](https://github.com/Anshrk/ECL-SafeHaven-Frontend)
+1. ![prMerged] Merged PR [#1](https://github.com/Anshrk/Attendance-System/pull/1) in [Anshrk/Attendance-System](https://github.com/Anshrk/Attendance-System)
+2. ![star] Starred [codingclubrvce/Placement_Prep](https://github.com/codingclubrvce/Placement_Prep)
+3. ![repoCreated] Created new repository [Anshrk/Attendance-System](https://github.com/Anshrk/Attendance-System)
 4. ![people] Became collaborator on [Anshrk/ECL-SafeHaven](https://github.com/Anshrk/ECL-SafeHaven)
 5. ![people] Became collaborator on [Anshrk/ECL-SafeHaven](https://github.com/Anshrk/ECL-SafeHaven)
 6. ![repoCreated] Created new repository [Anshrk/ECL-SafeHaven](https://github.com/Anshrk/ECL-SafeHaven)
