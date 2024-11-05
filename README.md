@@ -42,11 +42,7 @@
 ## 🍕 some facts:</b>
 
 - Hello, I am Ansh.
-- I study in grade 11.
-- I am 16 years old.
-- Currently im learning how to mearn stack.
-- looking to contribute to open-source projects.
-- working on some _pretty useless_ open-source projects in 2021.
+
 
 
 </br>
