@@ -116,19 +116,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 27th, 2024, 6:17:00 AM (Indian Standard Time)
+Last Updated: Wednesday, November 27th, 2024, 11:44:06 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
+1. ![star] Starred [AnanthMAthreya/2nd-year-resources-2022-scheme-rvce](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce)
 2. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
 3. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
-4. ![repoCreated] Created new repository [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
+4. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
 5. ![repoCreated] Created new repository [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
-6. ![star] Starred [shreyaravi0/forkhackathon](https://github.com/shreyaravi0/forkhackathon)
-7. ![repoCreated] Created new repository [Anshrk/math_el](https://github.com/Anshrk/math_el)
-8. ![repoCreated] Created new repository [Anshrk/pinokio](https://github.com/Anshrk/pinokio)
-9. ![star] Starred [mache102/SlymeGPT](https://github.com/mache102/SlymeGPT)
-10. ![prMerged] Merged PR [#1](https://github.com/Anshrk/Attendance-System/pull/1) in [Anshrk/Attendance-System](https://github.com/Anshrk/Attendance-System)
+6. ![repoCreated] Created new repository [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
+7. ![star] Starred [shreyaravi0/forkhackathon](https://github.com/shreyaravi0/forkhackathon)
+8. ![repoCreated] Created new repository [Anshrk/math_el](https://github.com/Anshrk/math_el)
+9. ![repoCreated] Created new repository [Anshrk/pinokio](https://github.com/Anshrk/pinokio)
+10. ![star] Starred [mache102/SlymeGPT](https://github.com/mache102/SlymeGPT)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
