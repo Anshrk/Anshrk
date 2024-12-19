@@ -116,19 +116,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 19th, 2024, 11:43:44 AM (Indian Standard Time)
+Last Updated: Thursday, December 19th, 2024, 5:47:42 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [AnanthMAthreya/2nd-year-resources-2022-scheme-rvce](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce)
-2. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
-3. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
-4. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
-5. ![repoCreated] Created new repository [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
-6. ![repoCreated] Created new repository [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
-7. ![star] Starred [shreyaravi0/forkhackathon](https://github.com/shreyaravi0/forkhackathon)
-8. ![repoCreated] Created new repository [Anshrk/math_el](https://github.com/Anshrk/math_el)
-9. ![repoCreated] Created new repository [Anshrk/pinokio](https://github.com/Anshrk/pinokio)
-10. ![star] Starred [mache102/SlymeGPT](https://github.com/mache102/SlymeGPT)
+1. ![star] Starred [Anshrk/pinokio](https://github.com/Anshrk/pinokio)
+2. ![star] Starred [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
+3. ![star] Starred [Anshrk/math_el](https://github.com/Anshrk/math_el)
+4. ![star] Starred [AnanthMAthreya/2nd-year-resources-2022-scheme-rvce](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce)
+5. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
+6. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
+7. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
+8. ![repoCreated] Created new repository [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
+9. ![repoCreated] Created new repository [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
+10. ![star] Starred [shreyaravi0/forkhackathon](https://github.com/shreyaravi0/forkhackathon)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
