@@ -116,19 +116,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 29th, 2024, 5:44:47 PM (Indian Standard Time)
+Last Updated: Sunday, December 29th, 2024, 11:40:47 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [Anshrk/pinokio](https://github.com/Anshrk/pinokio)
-2. ![star] Starred [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
-3. ![star] Starred [Anshrk/math_el](https://github.com/Anshrk/math_el)
-4. ![star] Starred [AnanthMAthreya/2nd-year-resources-2022-scheme-rvce](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce)
-5. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
+1. ![star] Starred [shreyaravi0/metro](https://github.com/shreyaravi0/metro)
+2. ![star] Starred [Anshrk/pinokio](https://github.com/Anshrk/pinokio)
+3. ![star] Starred [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
+4. ![star] Starred [Anshrk/math_el](https://github.com/Anshrk/math_el)
+5. ![star] Starred [AnanthMAthreya/2nd-year-resources-2022-scheme-rvce](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce)
 6. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
 7. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
-8. ![repoCreated] Created new repository [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
+8. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
 9. ![repoCreated] Created new repository [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
-10. ![star] Starred [shreyaravi0/forkhackathon](https://github.com/shreyaravi0/forkhackathon)
+10. ![repoCreated] Created new repository [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
