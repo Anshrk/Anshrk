@@ -116,18 +116,18 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 29th, 2025, 6:12:58 AM (Indian Standard Time)
+Last Updated: Wednesday, January 29th, 2025, 11:42:53 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [shreyaravi0/metro](https://github.com/shreyaravi0/metro)
-2. ![star] Starred [Anshrk/pinokio](https://github.com/Anshrk/pinokio)
-3. ![star] Starred [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
-4. ![star] Starred [Anshrk/math_el](https://github.com/Anshrk/math_el)
-5. ![star] Starred [AnanthMAthreya/2nd-year-resources-2022-scheme-rvce](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce)
-6. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
+1. ![star] Starred [Surajk013/rvcecy3rdsem](https://github.com/Surajk013/rvcecy3rdsem)
+2. ![star] Starred [shreyaravi0/metro](https://github.com/shreyaravi0/metro)
+3. ![star] Starred [Anshrk/pinokio](https://github.com/Anshrk/pinokio)
+4. ![star] Starred [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
+5. ![star] Starred [Anshrk/math_el](https://github.com/Anshrk/math_el)
+6. ![star] Starred [AnanthMAthreya/2nd-year-resources-2022-scheme-rvce](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce)
 7. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
 8. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
-9. ![repoCreated] Created new repository [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
+9. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
 10. ![repoCreated] Created new repository [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
 <!--RECENT_ACTIVITY:end-->
 
