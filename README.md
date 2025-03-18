@@ -116,12 +116,12 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 17th, 2025, 11:43:36 PM (Indian Standard Time)
+Last Updated: Tuesday, March 18th, 2025, 6:16:34 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [shreyaravi0/GDG](https://github.com/shreyaravi0/GDG)
-2. ![star] Starred [shreyaravi0/FORK-GEN](https://github.com/shreyaravi0/FORK-GEN)
-3. ![star] Starred [Anshrk/pinokio](https://github.com/Anshrk/pinokio)
+1. ![star] Starred [supabase/supabase](https://github.com/supabase/supabase)
+2. ![star] Starred [shreyaravi0/GDG](https://github.com/shreyaravi0/GDG)
+3. ![star] Starred [shreyaravi0/FORK-GEN](https://github.com/shreyaravi0/FORK-GEN)
 4. ![star] Starred [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
 5. ![star] Starred [Anshrk/math_el](https://github.com/Anshrk/math_el)
 6. ![star] Starred [AnanthMAthreya/2nd-year-resources-2022-scheme-rvce](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce)
