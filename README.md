@@ -38,13 +38,6 @@
                                             
                                             
 # ___Hello, this is Ansh___
-## This is my [Portfolio](https://anshrk.github.io) be sure to check it out!
-## 🍕 some facts:</b>
-
-- Hello, I am Ansh.
-
-
-
 </br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -78,19 +71,6 @@
 
 <br/>
 
-<h1 align="left"> 📊 &nbsp;Git Stats</h1>
-</br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshrk&show_icons=true&theme=radical" alt="Anshrk" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshrk&layout=compact&hide=html&theme=radical" alt="Anshrk" />
-</br>
-</br>
-<h1 align="center">
-<br/>
-<div> </div>
-  </br>
-  </br>
-  </br>
 ✨ Where you can find me ✨
 
 <p align="center">
@@ -130,8 +110,6 @@ Last Updated: Saturday, August 1st, 2026, 7:18:38 AM (Indian Standard Time)
 9. ![people] Became collaborator on [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
 10. ![repoCreated] Created new repository [Anshrk/fork-gen](https://github.com/Anshrk/fork-gen)
 <!--RECENT_ACTIVITY:end-->
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anshrk&color=00FFFF&label=cool%20count" alt="Anshrk" /> </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
